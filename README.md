@@ -84,3 +84,8 @@ AiAgent/
 - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [LangGraph overview](https://docs.langchain.com/oss/python/langgraph/overview)
 
+## 专题文档
+
+- [核心原子能力迭代路径](docs/atomic-capability-roadmap.md)
+- [Agent 自迭代领域综述](docs/self-iteration-overview.md)
+- [参考资料索引](docs/references.md)

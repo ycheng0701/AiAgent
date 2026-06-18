@@ -13,6 +13,11 @@
 - [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://arxiv.org/abs/2503.23278)
 - [SMCP: Secure Model Context Protocol](https://arxiv.org/abs/2602.01129)
 - [The OpenHands Software Agent SDK](https://arxiv.org/abs/2511.03690)
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [STOP: Self-Taught Optimizer](https://arxiv.org/abs/2310.02304)
+- [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
+- [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 
 ## 关键词
 
@@ -26,4 +31,3 @@
 - Tracing / observability
 - Prompt injection
 - Tool poisoning
-
